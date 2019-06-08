@@ -191,7 +191,7 @@ class ArticleController extends Controller
             Artisan::call('backup:run --only-db');
         } catch (\Exception $exception) {
 
-            return 'حدث خطأ ما الرجاء '.'<a href="/">الضغط هنا </a>'.'للعودة للصفحة الرئيسية';
+            return $exception->getMessage();
         }
 
         return redirect()->back()->with(['message' => 'تم انشاء نسخة احتياطية ', 'type' => 'success']);

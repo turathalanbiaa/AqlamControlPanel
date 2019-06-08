@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9cda05bd-c8c3-49f3-9885-5a4c6ef2d33f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/database.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/database.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor.zip" beforeDir="false" />
-    </list>
+    <list default="true" id="9cda05bd-c8c3-49f3-9885-5a4c6ef2d33f" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,7 +143,7 @@
         <entry file="file://$PROJECT_DIR$/.env">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="276">
-              <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+              <caret line="14" selection-start-line="14" selection-end-line="14" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -433,12 +429,12 @@
       <workItem from="1558959881101" duration="6124000" />
       <workItem from="1559082933662" duration="1000" />
       <workItem from="1559563444865" duration="31882000" />
-      <workItem from="1559975984057" duration="3696000" />
+      <workItem from="1559975984057" duration="4706000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="119544000" />
+    <option name="totallyTimeSpent" value="120554000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
@@ -784,7 +780,7 @@
     <entry file="file://$PROJECT_DIR$/.env">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
-          <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+          <caret line="14" selection-start-line="14" selection-end-line="14" selection-end-column="43" />
         </state>
       </provider>
     </entry>
